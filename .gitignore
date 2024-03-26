@@ -1,0 +1,6 @@
+#ignore all these files
+
+
+#Ignore these folders
+
+.venv/
